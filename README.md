@@ -8,5 +8,5 @@ Postas de pescada
 
 ### Autores
 
-Daniel Reis Coelho 2001
+Daniel Reis Coelho
 
